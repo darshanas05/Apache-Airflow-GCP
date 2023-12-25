@@ -1,0 +1,5 @@
+Hello and Welcome to my project!
+
+Using GCP, Apache Spark, Airflow/Composer to perform a join operation and using airflow to automate the job to perform batch processing.
+
+Where we will be using python code to join 2 files by reading them in spark and writing the joined/processed file to a loaction.
