@@ -1,5 +1,7 @@
-Hello and Welcome to my project!
+Greetings and welcome to my project!
 
-Using GCP, Apache Spark, Airflow/Composer to perform a join operation and using airflow to automate the job to perform batch processing.
+We harness the capabilities of Google Cloud Platform (GCP), Apache Spark, and Airflow/Composer to execute a join operation, further enhancing our data processing capabilities. Moreover, we leverage Airflow's automation prowess to streamline and orchestrate batch processing tasks seamlessly.
 
-Where we will be using python code to join 2 files by reading them in spark and writing the joined/processed file to a loaction.
+Our approach revolves around employing Python code to orchestrate the joining of two datasets within the Apache Spark framework. By leveraging Spark's distributed computing prowess, we efficiently read and process the datasets before performing the join operation. Subsequently, the resultant joined/processed file is meticulously written to a designated location, ensuring data integrity and accessibility.
+
+This project encapsulates a holistic approach to data processing, encompassing the seamless integration to facilitate efficient batch processing and join operations. Join us as we delve into the intricacies of data manipulation and orchestration, empowered by the robust capabilities of GCP, Apache Spark, and Airflow/Composer.
